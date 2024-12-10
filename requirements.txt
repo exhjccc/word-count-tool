@@ -1,0 +1,9 @@
+beautifulsoup4
+python-docx
+pdfplumber
+markdown
+openpyxl
+striprtf
+python-pptx
+pyyaml
+SpeechRecognition
